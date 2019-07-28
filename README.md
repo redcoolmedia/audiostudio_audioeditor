@@ -8,8 +8,8 @@ https://www.redcoolmedia.net/web-online-audio-video-apps/audiostudio-audio-edito
 
 In order to implement this functionality, this web app includes multiple buttons that provides the following functionality:
 
-Reset button resets the play pointer to the beginning and stops play.
-Play/pause button plays or pauses audio at the current time.
+- Reset button resets the play pointer to the beginning and stops play.
+- Play/pause button plays or pauses audio at the current time.
 Move button switches into move mode, in which you can move sections within and across tracks by dragging them. 
 Duplicate button switches into duplicate mode, in which you can click sections to duplicate them.
 Split button switches into split-section mode, in which you can split sections by pressing on them and then releasing upon finalizing the split location.
